@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1714755602 source:c:\users\edoardo\onedrive\desktop\compito\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1715462986 source:d:\sistemi\compitopuntatori\main.c
+	"libPunt.h"
+
+1715462904 d:\sistemi\compitopuntatori\libpunt.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

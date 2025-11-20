@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1702376766 source:d:\sistemi\stringhe2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

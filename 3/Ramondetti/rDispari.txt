@@ -1,0 +1,5 @@
+1. Il tecnico in Informatica e Telecomunicazioni:
+3. Gestisce progetti nelle varie fasi del ciclo di sviluppo
+5. Sviluppa e gestisce siti web statici e dinamici 
+7. 2. Descrive e confronta il funzionamento di strumenti informatici 
+9. 4. Sviluppa applicazioni informatiche progettando e implementando software

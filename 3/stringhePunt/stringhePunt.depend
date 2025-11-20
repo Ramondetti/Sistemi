@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1715467910 source:d:\sistemi\stringhepunt\main.c
+	"libStrPunt.h"
+
+1715468012 d:\sistemi\stringhepunt\libstrpunt.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1708423894 source:d:\sistemi\rubrica\main.c
+	"libRubrica.h"
+
+1708423894 d:\sistemi\rubrica\librubrica.h
+	<stdio.h>
+	<stdlib.h>
+

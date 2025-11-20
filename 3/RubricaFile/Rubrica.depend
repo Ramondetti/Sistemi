@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1708095344 source:d:\sistemi\rubrica\main.c
+	"libRubrica.h"
+
+1708096218 d:\sistemi\rubrica\librubrica.h
+	<stdio.h>
+	<stdlib.h>
+
+1710091922 source:d:\sistemi\rubricafile\main.c
+	"libRubrica.h"
+
+1711444852 d:\sistemi\rubricafile\librubrica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

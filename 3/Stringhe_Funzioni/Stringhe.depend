@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1701166805 source:c:\users\franc\onedrive\desktop\stringhe\stringhe_funzioni\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libStr.h"
+
+1701167978 c:\users\franc\onedrive\desktop\stringhe\stringhe_funzioni\libstr.h
+
+1701166806 source:h:\stringhe\stringhe_funzioni\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libStr.h"
+
+1701167980 h:\stringhe\stringhe_funzioni\libstr.h
+
+1701423474 source:c:\users\edoardo\onedrive\desktop\stringhe_funzioni\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libStr.h"
+
+1701424524 c:\users\edoardo\onedrive\desktop\stringhe_funzioni\libstr.h
+
+1702822756 source:d:\sistemi\stringhe_funzioni\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libStr.h"
+
+1704667720 d:\sistemi\stringhe_funzioni\libstr.h
+

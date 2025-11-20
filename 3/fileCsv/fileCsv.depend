@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1710096992 source:c:\users\edoardo\onedrive\desktop\filecsv\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1710242476 source:e:\sistemi\filecsv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

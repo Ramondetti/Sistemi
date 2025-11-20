@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1711449040 source:d:\sistemi\csv\main.c
+	<stdio.h>
+	<stdlib.h>
+	"strlib.h"
+
+1711448478 d:\sistemi\csv\strlib.h
+
+1712081892 source:d:\sistemi\csv3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"strlib.h"
+
+1712084312 d:\sistemi\csv3\strlib.h
+
